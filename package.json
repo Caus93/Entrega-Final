@@ -1,0 +1,23 @@
+{
+  "name": "preentrega3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch scss/style.scss css/style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Caus93/Segunda-Pre-entrega.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Caus93/Segunda-Pre-entrega/issues"
+  },
+  "homepage": "https://github.com/Caus93/Segunda-Pre-entrega#readme",
+  "dependencies": {
+    "bootstrap": "^5.2.2"
+  }
+}
