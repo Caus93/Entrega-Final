@@ -10813,5 +10813,17 @@ nav ul li a:hover {
     color: rgba(0, 0, 0, 0.1);
   }
 }
+.iconos:hover {
+  opacity: 0.65;
+}
+
+.imagenNoticia img {
+  max-width: 40%;
+}
+
+.carousel-control-prev-icon,
+.carousel-control-next-icon {
+  filter: invert(108%);
+}
 
 /*# sourceMappingURL=style.css.map */
